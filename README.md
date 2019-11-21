@@ -1,0 +1,2 @@
+# HOTELLING-S-T2-STATISTIC-ONE-SAMPLE-PROBLEM-
+hotellings t^2 statistics
